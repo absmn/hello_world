@@ -1,5 +1,5 @@
 {
-    "name":"lzh/hello_world",
+    "name":"linzh/hello_world",
     "description":"hello composer",
     "require":{
         "php": ">=7.2.*"
