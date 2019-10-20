@@ -1,0 +1,7 @@
+{
+    "name":"lzh/hello_world",
+    "description":"hello composer",
+    "require":{
+        "php": ">=7.2.*"
+    }
+}
