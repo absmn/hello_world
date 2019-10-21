@@ -1,9 +1,9 @@
 {
     "name":"linzh/hello_world",
     "description":"hello composer",
+    "type":"project",
     "require":{
         "php": ">=7.2.0"
     },
-    "version": "0.1.1",
     "license": "Apache-2.0"
 }
