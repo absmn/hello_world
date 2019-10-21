@@ -1,6 +1,6 @@
 {
-    "name":"linzh/hello_world",
-    "description":"hello composer",
-    "type":"project",
+    "name": "linzh/hello_world",
+    "description": "the hello world project",
+    "type": "project",
     "license": "Apache-2.0"
 }
